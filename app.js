@@ -210,7 +210,7 @@ class WatershiftsApp {
         return `
             <div class="page-container">
                 <div class="about-container">
-                    <div class="about-image">👩‍🔬</div>
+                    <div class="about-image"><img url="https://yt3.googleusercontent.com/PrBzqWYlPMkbMHUxAN0qA_ApRol9tZSAbeINewTRSlpB-NcDl4pkD8ZcQ1zDXnfv1TNDbvZraw=s160-c-k-c0x00ffffff-no-rj"><img></div>
                     <div class="about-text">
                         <h2>Dr. Nafiseh Salehi Siavashani</h2>
                         <p><strong>Hydrogeologist & Researcher</strong></p>
